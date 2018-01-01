@@ -118,7 +118,7 @@ hash conflicts:         0 (resolved)
   1:	proc  0 (A:1) modifiedFinalTermProject.pml:7 (state 1)	[b0 = 1]
   2:	proc  1 (B:1) modifiedFinalTermProject.pml:14 (state 1)	[b1 = 1]
 timeout
-#processes: 2
+ '#processes: 2'
   2:	proc  1 (B:1) modifiedFinalTermProject.pml:15 (state 2)
   2:	proc  0 (A:1) modifiedFinalTermProject.pml:8 (state 2)
 2 processes created
