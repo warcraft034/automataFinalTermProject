@@ -53,7 +53,7 @@ These instructions will get you a copy of the project up and running on your loc
 -- wish -f ispin.tcl
 
 6. Install graphviz-2.38 for automata view
-- in Final, open graphviz-2.38 insatller and install it
+- Since the setup.exe file is about 34 mb, so you need to go on google and download it yourself
 
 7. Configure ispin
 - open ispin.tcl using any text editor
