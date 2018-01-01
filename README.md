@@ -124,7 +124,6 @@ timeout
 2 processes created
 
 --> Because there are a deadlock at state (t0, t1)
-```
 
 ## Deployment
 
