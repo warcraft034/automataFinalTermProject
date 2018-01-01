@@ -23,7 +23,7 @@ B. knowledge
 
 ### Installation
 
-  ******* Installation step: spin version 6.4.7 *******
+#### Installation step: spin version 6.4.7
 
 1. ************** Install cygwin32 ***************
 - step 1: install cygwin32 using setup-x86.exe file
@@ -89,9 +89,7 @@ command 1: takeown /f "c:\cygwin" /r /d Y
 command 2: icacls "c:\cygwin" /T /Q /C /reset
 command 3: rd "c:\cygwin" /s /q
 
-## Running the tests
-
-  ********************** Example *************************
+## Running the tests - Example
   
 1. With finalTermProject: simulate this program with arbitrary seed (123, 10000 time step by default), we can see that there are no deadlock encountered during run process. But it just a guess. Now go to step 2
 command: spin -p -s -r -X -v -n123 -l -g -u10000 finalTermProject.pml
